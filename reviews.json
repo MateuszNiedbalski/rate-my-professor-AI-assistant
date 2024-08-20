@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Emily Johnson",
+        "subject": "Physics",
+        "stars": 5,
+        "review": "Dr. Johnson explains complex concepts clearly and is always available for extra help."
+      },
+      {
+        "professor": "Michael Chen",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Challenging course, but Prof. Chen's enthusiasm for the subject is contagious."
+      },
+      {
+        "professor": "Sarah Martinez",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Engaging lectures and interesting lab work. Dr. Martinez is knowledgeable and approachable."
+      },
+      {
+        "professor": "David Kim",
+        "subject": "Mathematics",
+        "stars": 3,
+        "review": "Tough grader, but fair. Homework can be overwhelming at times."
+      },
+      {
+        "professor": "Rachel Thompson",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Fantastic instructor! Dr. Thompson makes the material relatable and easy to understand."
+      },
+      {
+        "professor": "James Wilson",
+        "subject": "History",
+        "stars": 4,
+        "review": "Interesting course content, but lectures can be a bit dry sometimes."
+      },
+      {
+        "professor": "Lisa Patel",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Dr. Patel is passionate about chemistry and it shows in her teaching. Great lab experiments!"
+      },
+      {
+        "professor": "Robert Brown",
+        "subject": "English",
+        "stars": 4,
+        "review": "Thought-provoking discussions in class. Prof. Brown encourages critical thinking."
+      },
+      {
+        "professor": "Jennifer Lee",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Dr. Lee brings real-world examples into the classroom. Highly recommended!"
+      },
+      {
+        "professor": "Thomas Garcia",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Challenging course material, but Prof. Garcia is always available for extra help."
+      },
+      {
+        "professor": "Amanda White",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Engaging lectures with beautiful visuals. Dr. White's passion for art is inspiring."
+      },
+      {
+        "professor": "Daniel Miller",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Prof. Miller facilitates great class discussions and encourages diverse viewpoints."
+      },
+      {
+        "professor": "Olivia Taylor",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Dr. Taylor's field trips and hands-on activities make this course unforgettable."
+      },
+      {
+        "professor": "Christopher Jones",
+        "subject": "Philosophy",
+        "stars": 3,
+        "review": "Interesting topics, but Prof. Jones can sometimes be unclear in his explanations."
+      },
+      {
+        "professor": "Natalie Adams",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Dr. Adams makes linguistics fun and accessible. Great course for language enthusiasts!"
+      },
+      {
+        "professor": "Kevin Wright",
+        "subject": "Business",
+        "stars": 4,
+        "review": "Prof. Wright brings valuable industry experience to the classroom. Practical assignments."
+      },
+      {
+        "professor": "Stephanie Nelson",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Fascinating course content. Dr. Nelson is knowledgeable and approachable."
+      },
+      {
+        "professor": "Andrew Scott",
+        "subject": "Music",
+        "stars": 5,
+        "review": "Prof. Scott's enthusiasm for music is contagious. Great mix of theory and practice."
+      },
+      {
+        "professor": "Maria Rodriguez",
+        "subject": "Neuroscience",
+        "stars": 4,
+        "review": "Challenging but rewarding course. Dr. Rodriguez explains complex concepts well."
+      },
+      {
+        "professor": "William Turner",
+        "subject": "Theater Arts",
+        "stars": 5,
+        "review": "Prof. Turner's acting workshops are incredibly helpful. Supportive and encouraging instructor."
+      }
+    ]
+  }
